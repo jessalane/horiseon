@@ -6,6 +6,7 @@ With this project I've edited the provided code to include semantic elements for
 
 ## Usage
 The following is a picture of what the website should look like when opened in a browser. 
-```md
+
     ![horiseon screenshot](./assets/images/horiseon%20screenshot.png)
-```
+
+    [The Deployed Page](https://pages.github.com/).
